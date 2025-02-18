@@ -39,3 +39,7 @@ It recognizes common phrases such as greetings, requests for help, or general qu
 
 OUTPUT
 
+![Image](https://github.com/user-attachments/assets/e556adc4-4c36-4d70-8196-2a13f570cf17)
+
+
+
